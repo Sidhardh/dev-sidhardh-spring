@@ -13,7 +13,7 @@ public class DemoController {
     private Trainer myTrainer;
 
     @Autowired
-    public void DemoController(@Qualifier("swimTrainer") Trainer theTrainer){
+    public void DemoController(@Qualifier("aquatic") Trainer theTrainer){
         myTrainer=theTrainer;
     }
 
