@@ -1,0 +1,20 @@
+HPPT Request
+	Request Line > HTTP Command
+	Header Variables > Request Metadate
+	Message Body > Contents of Message
+HTTP Response
+	Response line >	 Server Protocol and Status Code
+	Header Variables >	Information About Metadata like xml/JSON
+	Message Body >	Content of message
+	
+100-199 : Informational
+200-299 : Success
+300-399 : Redirection
+400-499	: Client Error
+500-599 : Server Error
+
+MIME Content (Multipurpose Internet Mail-Extension )
+	type/sub-type
+	text/html, text/plain 
+	application/JSON
+	
