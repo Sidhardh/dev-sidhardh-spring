@@ -4,7 +4,7 @@ HPPT Request
 	Message Body > Contents of Message
 HTTP Response
 	Response line >	 Server Protocol and Status Code
-	Header Variables >	Information About Metadata like xml/JSON
+	Header Variables > Information About Metadata like xml/JSON
 	Message Body >	Content of message
 	
 100-199 : Informational
